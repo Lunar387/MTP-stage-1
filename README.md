@@ -1,4 +1,4 @@
-# MTP-stage-1
+# Thermal Pure Quantum states approach to spin systems
 - These are the codes for obtaining the plots in my master's thesis - stages 1 and 2
 
 - I have generated Microcanonical Thermal Pure Quantum states, as prescribed by Sugiura and Shimizu [PRL 108, 240401 (2012) and PRL 111, 010401 (2013)].
@@ -6,5 +6,5 @@
 - The first stage correspnds to studies on an isolated system
 - The second stage corresponds to studies on a system attached to a thermal bath
 
-- System used is an XXZ Heisenberg chain.
-- My thesis is not online, will link to it when it is done.
+- System used is an XXZ Heisenberg chain (verification purposes).
+- Further application to embedded spin systems
